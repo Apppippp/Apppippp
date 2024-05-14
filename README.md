@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apppippp&label=Profile%20views&color=0e75b6&style=flat" alt="apppippp" /> </p>
 
-- 👨‍💻 All of my projects are available at afifsyaifn.kesug.com/
+- 👨‍💻 All of my projects are available at [http://afifsyaifn.kesug.com/](http://afifsyaifn.kesug.com/)
 
 - 📫 How to reach me **afifsyaifn27@gmail.com**
 
